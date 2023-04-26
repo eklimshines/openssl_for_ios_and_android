@@ -1,3 +1,6 @@
+## NDK Files
+https://github.com/android/ndk/wiki/Unsupported-Downloads
+
 ## More iOS and Android build scripts
 [simple-build-ios-and-android-script](https://github.com/AsteriskZuo/simple-build-ios-and-android-script)
 
